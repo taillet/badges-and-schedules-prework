@@ -1,7 +1,6 @@
 # Write your code here.
 
 def badge_maker(name)
-  badge = name
   puts "Hello, my name is Arel."
 end
 
