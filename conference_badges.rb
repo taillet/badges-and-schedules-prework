@@ -22,6 +22,7 @@ narray
 end
 
 def printer(array)
+  i=0
   while i < array.size
 puts batch_badge_creator(array)[i]
 puts assign_rooms(array)[i]
