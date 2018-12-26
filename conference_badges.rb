@@ -22,5 +22,5 @@ narray
 end
 
 def printer(array)
-puts assign_rooms
+puts assign_rooms(array)
 end
