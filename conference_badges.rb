@@ -22,6 +22,7 @@ narray
 end
 
 def printer(array)
-print batch_badge_creator(array)
-print assign_rooms(array)
+array.each do |e|
+puts badge_maker(e)
+end
 end
